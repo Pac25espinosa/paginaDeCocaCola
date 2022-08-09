@@ -1,0 +1,67 @@
+*{
+box-sizing: border-box;
+padding: 5px;
+
+
+}
+
+.cabeza{
+background-color: black;
+height: 100px;
+text-align: center;
+}
+
+.cajalogo{
+    text-align: center;
+}
+
+.caja1{
+ border: 2px black solid;
+ 
+}
+
+.menu4{
+    height: 100px;
+    margin: 10PX;
+}
+
+.altura1{
+    border: 2px black solid;
+    text-align: center;
+    
+}
+
+.altura2{
+    text-align: center;
+}
+
+.imagen1{
+    border: 2px black solid;
+    width: 100%;
+    height: 100%;
+    text-align: center;  
+}
+
+.redes{
+    height: 200px;
+}
+
+.texto1{
+    font-size: 40px;
+    border: 2px black solid;
+    width: 100%;
+    height: 100%;
+}
+
+.altura4{
+    border: 2px black solid;
+    text-align: center;
+}
+
+.altura5{
+    border: 2px black solid;
+    height: 500px;
+}
+
+
+
